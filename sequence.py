@@ -1,3 +1,6 @@
+'''
+block comments
+'''
 integer1 = int(input("Enter first integer: "))
 integer2 = int(input("Enter second integer: "))
 
